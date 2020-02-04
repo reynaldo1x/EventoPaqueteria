@@ -1,0 +1,3 @@
+China,Cancun,446400,DHL,Avion,3-02-2020 21:00:00
+Mérida,Cozumel,400,Estafeta,Tren,23-01-2020 13:50:00
+Ticul,Motul,80,Estafeta,Tren,03-02-2020 18:00:00

@@ -1,0 +1,7 @@
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\bin\Debug\EventoAliExpress.exe.config
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\bin\Debug\EventoAliExpress.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\bin\Debug\EventoAliExpress.pdb
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\obj\Debug\EventoAliExpress.csprojAssemblyReference.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\obj\Debug\EventoAliExpress.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\obj\Debug\EventoAliExpress.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\EventoAliExpress\obj\Debug\EventoAliExpress.pdb
